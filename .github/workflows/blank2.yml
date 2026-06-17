@@ -8,6 +8,7 @@ on:
         default: '1h'
         type: choice
         options: 
+          - 0.5h
           - 1h
           - 2h
           - 3h
